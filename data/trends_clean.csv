@@ -1,0 +1,97 @@
+post_id,title,category,score,num_comments,author,collected_at
+49630931,iPhone Duo,technology,1140,1984,thecosmicfrog,2026-09-10T07:13:45.688414+00:00
+49637385,Show HN: What if the speed of light was 5 km/h?,entertainment,235,96,dmitrybrant,2026-09-10T07:13:46.917913+00:00
+49621018,Larger Pacific Striped Octopus,science,25,9,olalonde,2026-09-10T07:13:47.987475+00:00
+49587465,ESP32 Bit Pirate Hardware Hacking Kit with Web Tools That Speaks Every Protocol,technology,77,12,geotp,2026-09-10T07:13:50.328070+00:00
+49629886,Growing proof that autonomous cars save lives,science,318,530,bookofjoe,2026-09-10T07:13:56.324962+00:00
+49639090,DeepSeek v4.1 Flash,technology,57,9,Liwink,2026-09-10T07:13:57.670368+00:00
+49637435,Training a 3.8B LLM to 0.384 CORE for $998 – Hugo Vergnes,technology,52,8,Anon84,2026-09-10T07:13:58.923273+00:00
+49623398,Show HN: Compute polynomials twice as fast,entertainment,69,24,thomasahle,2026-09-10T07:14:02.605241+00:00
+49630151,iPhone 18 Pro and iPhone 18 Pro Max,technology,347,366,meetpateltech,2026-09-10T07:14:05.055669+00:00
+49637395,A Stupid Idea for AI Alignment We Came with by Looking at Specification Gaming,technology,57,34,cpeterso,2026-09-10T07:14:07.547356+00:00
+49638353,OpenAI might have stolen another major proof,technology,126,29,tamnd,2026-09-10T07:14:09.074752+00:00
+49630026,Qwen 3.8 follows GPT-5.5 Pro reasoning prefills,technology,205,81,wsxiaoys,2026-09-10T07:14:11.905405+00:00
+49630566,Apple Watch Series 12,technology,248,301,Lealen,2026-09-10T07:14:14.692939+00:00
+49592799,Aardman (Wallace and Gromit) Is Selling Its Original Movie Puppets,entertainment,34,7,Gaishan,2026-09-10T07:14:16.103430+00:00
+49624856,How I advertise malicious software on Google Ads,technology,392,237,xlii,2026-09-10T07:14:19.116337+00:00
+49628576,GNU Radio in the browser,technology,194,25,kristianpaul,2026-09-10T07:14:23.808072+00:00
+49628429,Planet Labs' open satellite feed,science,171,30,marklit,2026-09-10T07:14:25.217441+00:00
+49635384,Blizzard Workers Win Historic Union Contract,worldnews,182,65,dbg31415,2026-09-10T07:14:27.682399+00:00
+49584361,Bespoke: A programming language for people who say please,technology,158,39,birdculture,2026-09-10T07:14:28.992084+00:00
+49636476,Tor VPN Beta: What we've learned building our own VPN for Android from scratch,technology,30,0,woofcat,2026-09-10T07:14:31.609327+00:00
+49573629,Microsoft says email spammers are adopting ASCII smuggling,technology,57,29,utiiiD,2026-09-10T07:14:34.143638+00:00
+49638622,OpenAI have no mathematicians capable of understanding what they put out,technology,36,11,doener,2026-09-10T07:14:35.397145+00:00
+49626373,What will our economic future look like?,worldnews,202,380,oumua_don17,2026-09-10T07:14:42.238013+00:00
+49583251,Seismic Isolation,science,11,0,pillars,2026-09-10T07:14:43.287200+00:00
+49630606,"Show HN: Self-hosted company OS, Claude Code and Codex agents in departments",technology,44,10,dimitrismrtzs,2026-09-10T07:14:46.524698+00:00
+49629865,Why Emacs Consult async searches feel slow and how to speed them up,technology,54,20,mpweiher,2026-09-10T07:14:47.574091+00:00
+49638981,DeepSeek-v4.1-Exp,technology,12,2,nil1511,2026-09-10T07:14:49.704431+00:00
+49629868,Procedural Graphs: Self-Evolving Execution Structures for LLM Agents,technology,53,15,omarsar,2026-09-10T07:14:50.764497+00:00
+49615537,Muse – Meta’s personal AI agent,technology,642,715,yks,2026-09-10T07:14:51.873355+00:00
+49622561,How GPT‑5.6 Sol helps run quantum computing experiments,science,146,107,theanonymousone,2026-09-10T07:14:54.035004+00:00
+49639110,(Tech Report) DeepSeek-v4.1-Flash: Pushing Limits of KV Cache Compression [pdf],technology,5,0,theanonymousone,2026-09-10T07:14:55.140602+00:00
+49605915,Navier-Stokes – Tristan Buckmaster [pdf],science,2006,814,procedurecall,2026-09-10T07:14:57.472369+00:00
+49604165,"Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes",technology,78,29,metrofun,2026-09-10T07:14:59.978798+00:00
+49623754,"Claude, change the “Add to Cart” button to blue",technology,1100,423,matthieu_bl,2026-09-10T07:15:01.092059+00:00
+49637555,Show HN: They chose your competitor. Find out why,entertainment,5,2,zhangchen0411,2026-09-10T07:15:03.184336+00:00
+49626745,"New app: Yesterday, an iPhone app for yesterday's weather",technology,32,6,surprisetalk,2026-09-10T07:15:05.253325+00:00
+49580761,Researchers Spot Fake Ancient Pottery Using the Earth's Magnetic Field,science,80,30,cisc,2026-09-10T07:15:06.267994+00:00
+49637070,Antibody studies point the way to an HIV cure,science,5,0,codebyaditya,2026-09-10T07:15:15.661864+00:00
+49611251,AlphaGenome Atlas: a high-resolution map of human DNA,science,592,131,utiiiD,2026-09-10T07:15:22.208854+00:00
+49629064,The State of Allocators in 2026 – 6 Months Later,worldnews,14,0,aw1621107,2026-09-10T07:15:26.531432+00:00
+49636851,1900 Blizzard Developers Just Won a Union Contract,worldnews,16,1,gpi,2026-09-10T07:15:27.728301+00:00
+49618050,"A Topological Picture Book, Rendered",entertainment,139,12,mathgenius,2026-09-10T07:15:35.929902+00:00
+49610059,Show HN: Copperhead – Cursor for circuit boards,entertainment,242,113,animeshchouhan,2026-09-10T07:15:39.372692+00:00
+49633640,DHS Program Analyzes Americans' Finances to Flag Drivers for Traffic Stops,worldnews,32,1,randycupertino,2026-09-10T07:15:42.963473+00:00
+49591563,The 92-Year-Old Mathematician and the Teenage Apprentice,science,184,15,robinhouston,2026-09-10T07:15:44.073025+00:00
+49629747,Show HN: Rdltr – Inbox zero for your reading list,entertainment,22,17,eduardosasso,2026-09-10T07:15:54.651819+00:00
+49610641,AlphaGenome Atlas predictive map of every DNA letter change in the human genome,science,90,11,fady0,2026-09-10T07:15:58.764952+00:00
+49627357,"Show HN: Whetuu – An opinionated, zero-config status line and history picker",entertainment,13,1,yamafaktory,2026-09-10T07:16:08.241773+00:00
+49617581,Large language models develop novel social biases through adaptive exploration,entertainment,198,112,paimapi,2026-09-10T07:16:15.770265+00:00
+49592375,216M Spy TVs – The LG Smart TV Problem [video],entertainment,913,1007,treve,2026-09-10T07:16:19.963685+00:00
+49613262,On the Navier–Stokes Millennium Prize Problem,science,1328,1116,tedsanders,2026-09-10T07:16:21.023447+00:00
+49621074,The Nonfiction Book Market is Collapsing?,entertainment,49,63,samclemens,2026-09-10T07:16:31.731340+00:00
+49586667,Extracting Steering Vectors from J space,science,65,18,martianvoid,2026-09-10T07:16:41.635522+00:00
+49638917,Scientists say August was Earth's hottest month they've measured,science,6,1,geox,2026-09-10T07:16:46.816162+00:00
+49626634,"The Ancient Greek Water Clock That Kept the Most Accurate Time for 1,800 Years",science,40,9,Brajeshwar,2026-09-10T07:16:49.024337+00:00
+49626718,A Design Space Exploration of Async/Await,science,7,1,wcrichton,2026-09-10T07:17:01.005988+00:00
+49626144,Show HN: Persistent Jupyter kernel execution and live output streaming in VSCode,entertainment,5,1,rnoro_,2026-09-10T07:17:09.290313+00:00
+49638009,Trump promises $5k payout to U.S. adults if Republicans win election,worldnews,22,28,nateb2022,2026-09-10T07:17:10.382375+00:00
+49635201,"Noise pollution may keep bodies on alert, disrupting sleep and heart health",science,7,0,mdp2021,2026-09-10T07:17:23.407837+00:00
+49634924,Secret DHS Unit Pulling People over Based on Their Financial Data,worldnews,17,1,devonnull,2026-09-10T07:17:29.399548+00:00
+49586207,Icy Moons Are Ocean Worlds,science,220,48,worldvoyageur,2026-09-10T07:17:31.446675+00:00
+49591793,Is mathematics about to enter the conservatory?,science,134,140,_alternator_,2026-09-10T07:17:35.453148+00:00
+49596055,Caltech Mathathon – first hackathon ever devoted to research level mathematics,science,267,99,astroanax,2026-09-10T07:17:37.468363+00:00
+49626237,How we rebuilt Cloudflare Workers' module registry for Node.js compatibility,worldnews,6,0,torutofu,2026-09-10T07:17:43.891449+00:00
+49590595,Harnessing the Universal Geometry of Embeddings,science,121,45,ur-whale,2026-09-10T07:17:45.884471+00:00
+49625911,"A ""proof"" of Fermat's Last Theorem that fits the margin",science,6,0,camel-cdr,2026-09-10T07:17:48.898430+00:00
+49625553,Show HN: Ctrlb-decompose: Strip the noise from logs before sending to LLMs,entertainment,14,0,ruhani_grover,2026-09-10T07:17:55.802403+00:00
+49618175,LG TV shown scanning LAN for third-party phones and other devices,entertainment,73,5,Bender,2026-09-10T07:17:59.840565+00:00
+49629926,1915-1934 United States occupation of Haiti,worldnews,10,0,simonebrunozzi,2026-09-10T07:18:05.834973+00:00
+49627635,Reclaiming the streets: the architects clawing back Europe's car-centric spaces,worldnews,18,0,robtherobber,2026-09-10T07:18:06.885366+00:00
+49592840,Show HN: GET Together – A social network where you don't need POST to Post,entertainment,107,59,nchudleigh,2026-09-10T07:18:11.836308+00:00
+49632832,Social influence and behavioral contagion experiment with bots on Reddit,science,7,0,StatsAreFun,2026-09-10T07:18:14.059256+00:00
+49624504,"As He Backs ICE Crackdown, Nebraska Governor Employs Undocumented Workers",worldnews,24,0,sbulaev,2026-09-10T07:18:16.147665+00:00
+49618447,Flock worker calls police on investigator filming public camera installation,worldnews,51,23,driverdan,2026-09-10T07:18:43.999410+00:00
+49590738,Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple,worldnews,101,34,bosmarcel,2026-09-10T07:18:46.257027+00:00
+49613152,Show HN: Making a GBA game with GPT-6 Astra,entertainment,14,2,HugoDz,2026-09-10T07:19:01.725522+00:00
+49627164,Blizzard Entertainment Workers Ratify Video Game Contracts with CWA,entertainment,12,2,toomuchtodo,2026-09-10T07:19:03.906398+00:00
+49615951,Show HN: Pipnote – Share a reminder they can't peek at until it arrives,entertainment,9,5,radomird,2026-09-10T07:19:09.953515+00:00
+49630431,A Restaurant at the Top of the World Trade Center Changed New York,worldnews,6,1,fortran77,2026-09-10T07:19:12.136266+00:00
+49628029,"I'm not an economist, but here's an argument I've been thinking about",worldnews,13,0,tosh,2026-09-10T07:19:17.344700+00:00
+49610988,DHS 'Predictive Policing' Unit Is Analyzing Americans' Financial Habits,worldnews,361,320,abraham,2026-09-10T07:19:33.744992+00:00
+49629333,Something is shifting in the inflation picture,worldnews,5,1,paulpauper,2026-09-10T07:19:35.847237+00:00
+49629047,Reclaim the Net Launches Global Digital Rights Bill Tracker,worldnews,5,0,iamnothere,2026-09-10T07:19:42.088875+00:00
+49576386,"The ""$60 Gaming PC"" – AMD BC-250 (2025)",entertainment,379,113,networked,2026-09-10T07:19:43.136440+00:00
+49594251,Switzerland's Federal Government Is Replacing Microsoft on 3k Computers,worldnews,366,286,ivell,2026-09-10T07:19:47.482416+00:00
+49614557,Flights cancelled at UK airports due to ATC issue,worldnews,126,120,contingencies,2026-09-10T07:20:04.808000+00:00
+49601328,Show HN: HomeCat – Design your backyard office,entertainment,40,24,dearilos,2026-09-10T07:20:07.874937+00:00
+49626922,Japan's book scene is quietly moving from bookstores to libraries,worldnews,8,2,speckx,2026-09-10T07:20:14.102228+00:00
+49605611,Canada's counter-tariffs take effect on various US goods,worldnews,56,12,geox,2026-09-10T07:20:27.950925+00:00
+49628410,War Is a Racket,worldnews,16,3,simonebrunozzi,2026-09-10T07:20:41.919257+00:00
+49605122,Show HN: NYC MapTap – Learn NYC neighborhoods,entertainment,18,13,abj908,2026-09-10T07:20:53.210769+00:00
+49612826,Show HN: InverSQL: Build SQL interactively in inverse,entertainment,5,0,renchuw,2026-09-10T07:20:59.352062+00:00
+49626041,UK Government to force tech companies to verify age of users to protect children,worldnews,5,1,Flere-Imsaho,2026-09-10T07:21:14.493753+00:00
+49605424,GamersNexus and LG: Or why rooting your TV is a bad idea,entertainment,107,132,drasticactions,2026-09-10T07:21:19.091715+00:00
+49628264,Elon Musk told ex he needed 'a legion of children before the civil war',worldnews,25,1,vrganj,2026-09-10T07:21:40.044502+00:00
+49590656,Ask HN: Show your micro-SaaS,entertainment,25,22,genekrapivin,2026-09-10T07:21:44.136432+00:00
